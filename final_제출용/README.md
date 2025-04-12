@@ -18,6 +18,8 @@
 pip install selenium beautifulsoup4 requests
 ```
 
+2. 혹은 업로드된 install_dependencies.sh 파일 실행
+
 ## 사용 방법
 
 1. `main.py` 파일에서 다음 정보를 설정:
